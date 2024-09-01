@@ -1,4 +1,4 @@
-# Hi, I'm Anshi! 😄🚀
+# Hi, I'm Anshi! 👾
 
 I’m a fourth-year Computer Science major at UC San Diego with industry experience as a software engineering intern. I'm passionate about technology and software engineering, and I'm dedicated to diversifying the tech field. 🌍💻
 
