@@ -1,6 +1,6 @@
 # Hi, I'm Anshi! 👾
 
-I’m a fourth-year Computer Science major at UC San Diego with industry experience as a software engineering intern. I'm passionate about technology and software engineering, and I'm dedicated to diversifying the tech field. 🌍💻
+I’m a fourth-year Computer Science major at UC San Diego with industry experience as a software engineering intern. I'm passionate about technology and software engineering, and I'm dedicated to diversifying the tech field. I am currently looking for new grad Software Engineer and/or Analyst positions. 🌍💻
 
 Throughout my journey, I've built a variety of projects using different languages and frameworks. Feel free to dive into some of my work in Swift, HTML, CSS, JavaScript, Python, and more. Each project showcases my commitment to solving problems and crafting impactful software solutions. ✨
 
