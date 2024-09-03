@@ -8,3 +8,6 @@ Throughout my journey, I've built a variety of projects using different language
 - **Email**: [anshisingh730@gmail.com](mailto:anshisingh730@gmail.com)
 - **LinkedIn**: [linkedin.com/in/anshisingh](https://linkedin.com/in/anshisingh)
 - **GitHub**: [github.com/anshisinghh](https://github.com/anshisinghh)
+
+## 💻 Technologies & Tools
+<img src="https://skillicons.dev/icons?i=cpp,cs,py,java,ts,js,swift,html,css,nodejs,flask,git,docker,postgres,dynamodb,aws,selenium,figma,vscode,jest" />
