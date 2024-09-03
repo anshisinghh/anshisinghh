@@ -10,4 +10,4 @@ Throughout my journey, I've built a variety of projects using different language
 - **GitHub**: [github.com/anshisinghh](https://github.com/anshisinghh)
 
 ## 💻 Technologies & Tools
-<img src="https://skillicons.dev/icons?i=cpp,cs,py,java,ts,js,swift,html,css,nodejs,flask,git,docker,postgres,dynamodb,aws,selenium,figma,vscode,jest" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,py,java,ts,js,swift,html,css,nodejs,flask,git,github,azure,docker,postgres,dynamodb,aws,selenium,figma,vscode,jest" />
