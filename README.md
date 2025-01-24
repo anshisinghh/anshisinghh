@@ -17,3 +17,4 @@ Throughout my journey, I've built a variety of projects using different language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshisinghh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://github.com/anshisinghh/anshisinghh/blob/output/github-contribution-grid-snake.svg)
