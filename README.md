@@ -12,7 +12,3 @@ Throughout my journey, I've built a variety of projects using different language
 - **LinkedIn**: [linkedin.com/in/anshisingh](https://linkedin.com/in/anshisingh)
 
 ![](https://komarev.com/ghpvc/?username=anshisinghh&color=6A8AFF)
-
-![Anshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshisinghh&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshisinghh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
